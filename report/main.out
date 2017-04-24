@@ -1,0 +1,21 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{Economics Literature}{}% 2
+\BOOKMARK [1][-]{section.3}{Supervised Learning Framework}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Beyond Linearity}{section.3}% 4
+\BOOKMARK [2][-]{subsection.3.2}{Feature Selection}{section.3}% 5
+\BOOKMARK [2][-]{subsection.3.3}{Prediction instead of Causality}{section.3}% 6
+\BOOKMARK [2][-]{subsection.3.4}{Regularization and Cross-Validation}{section.3}% 7
+\BOOKMARK [1][-]{section.4}{Supervised Learning Models}{}% 8
+\BOOKMARK [2][-]{subsection.4.1}{Linear Regression with L2 Regularization}{section.4}% 9
+\BOOKMARK [2][-]{subsection.4.2}{Lasso Regression}{section.4}% 10
+\BOOKMARK [2][-]{subsection.4.3}{Support Vector Regression}{section.4}% 11
+\BOOKMARK [2][-]{subsection.4.4}{Random Forest Regression}{section.4}% 12
+\BOOKMARK [1][-]{section.5}{Experiments}{}% 13
+\BOOKMARK [2][-]{subsection.5.1}{Data and Preprocessing}{section.5}% 14
+\BOOKMARK [2][-]{subsection.5.2}{Evaluation of Accuracy}{section.5}% 15
+\BOOKMARK [2][-]{subsection.5.3}{Prediction Results}{section.5}% 16
+\BOOKMARK [1][-]{section.6}{Unsupervised Learning}{}% 17
+\BOOKMARK [2][-]{subsection.6.1}{Principal Component Analysis}{section.6}% 18
+\BOOKMARK [2][-]{subsection.6.2}{Principal Component Analysis on House Features}{section.6}% 19
+\BOOKMARK [1][-]{section.7}{Feature Selection}{}% 20
+\BOOKMARK [1][-]{section.8}{Conclusion}{}% 21

@@ -1,0 +1,90 @@
+\begin{thebibliography}{}
+
+\bibitem[\protect\citeauthoryear{Athey}{Athey}{2016}]{AtheyQuora}
+Athey, S. (2016).
+\newblock How will machine learning impact economics?
+\newblock
+  \url{https://www.quora.com/How-will-machine-learning-impact-economics?redirected_qid=6706789}.
+\newblock Accessed: 2017-04-10.
+
+\bibitem[\protect\citeauthoryear{Basak, Pal, and Patranabis}{Basak
+  et~al.}{2007}]{basak2007support}
+Basak, D., S.~Pal, and D.~C. Patranabis (2007).
+\newblock Support vector regression.
+\newblock {\em Neural Information Processing-Letters and Reviews\/}~{\em
+  11\/}(10), 203--224.
+
+\bibitem[\protect\citeauthoryear{CMU}{CMU}{}]{cmuLasso}
+CMU, S.
+\newblock Ridge regression and lasso regression.
+\newblock
+  \url{http://www.stat.cmu.edu/~ryantibs/datamining/lectures/17-modr2.pdf}.
+
+\bibitem[\protect\citeauthoryear{Cook}{Cook}{2010}]{CookInvMat}
+Cook, J.~D. (2010).
+\newblock Don't invert the matrix.
+\newblock
+  \url{https://www.johndcook.com/blog/2010/01/19/dont-invert-that-matrix/}.
+\newblock Accessed: 2017-04-10.
+
+\bibitem[\protect\citeauthoryear{Costanigro, McCluskey, and
+  Mittelhammer}{Costanigro et~al.}{2007}]{costanigro2007segmenting}
+Costanigro, M., J.~J. McCluskey, and R.~C. Mittelhammer (2007, 9).
+\newblock Segmenting the wine market based on price: Hedonic regression when
+  different prices mean different products.
+\newblock {\em Journal of Agricultural Economics\/}~{\em 58\/}(3), 454--466.
+
+\bibitem[\protect\citeauthoryear{De~Cock}{De~Cock}{2011}]{de2011ames}
+De~Cock, D. (2011).
+\newblock Ames, iowa: Alternative to the boston housing data as an end of
+  semester regression project.
+\newblock {\em Journal of Statistics Education\/}~{\em 19\/}(3).
+
+\bibitem[\protect\citeauthoryear{Konstantin}{Konstantin}{}]{konstantin}
+Konstantin.
+\newblock The meaning of gaussian kernel.
+\newblock
+  \url{http://fouryears.eu/2016/11/11/the-meaning-of-the-gaussian-kernel/}.
+
+\bibitem[\protect\citeauthoryear{Liaw and Wiener}{Liaw and
+  Wiener}{2002}]{liaw2002classification}
+Liaw, A. and M.~Wiener (2002).
+\newblock Classification and regression by randomforest.
+\newblock {\em R news\/}~{\em 2\/}(3), 18--22.
+
+\bibitem[\protect\citeauthoryear{Pedregosa, Varoquaux, Gramfort, Michel,
+  Thirion, Grisel, Blondel, Prettenhofer, Weiss, Dubourg, Vanderplas, Passos,
+  Cournapeau, Brucher, Perrot, and Duchesnay}{Pedregosa
+  et~al.}{2011}]{scikit-learn}
+Pedregosa, F., G.~Varoquaux, A.~Gramfort, V.~Michel, B.~Thirion, O.~Grisel,
+  M.~Blondel, P.~Prettenhofer, R.~Weiss, V.~Dubourg, J.~Vanderplas, A.~Passos,
+  D.~Cournapeau, M.~Brucher, M.~Perrot, and E.~Duchesnay (2011).
+\newblock Scikit-learn: Machine learning in {P}ython.
+\newblock {\em Journal of Machine Learning Research\/}~{\em 12}, 2825--2830.
+
+\bibitem[\protect\citeauthoryear{Selim}{Selim}{2009}]{Selim20092843}
+Selim, H. (2009).
+\newblock Determinants of house prices in turkey: Hedonic regression versus
+  artificial neural network.
+\newblock {\em Expert Systems with Applications\/}~{\em 36\/}(2, Part 2), 2843
+  -- 2852.
+
+\bibitem[\protect\citeauthoryear{Shlens}{Shlens}{2014}]{shlens2014tutorial}
+Shlens, J. (2014).
+\newblock A tutorial on principal component analysis.
+\newblock {\em arXiv preprint arXiv:1404.1100\/}.
+
+\bibitem[\protect\citeauthoryear{Yoo, Im, and Wagner}{Yoo
+  et~al.}{2012}]{yoo2012variable}
+Yoo, S., J.~Im, and J.~E. Wagner (2012).
+\newblock Variable selection for hedonic model using machine learning
+  approaches: A case study in onondaga county, ny.
+\newblock {\em Landscape and Urban Planning\/}~{\em 107\/}(3), 293--306.
+
+\bibitem[\protect\citeauthoryear{Zhang, Bengio, Hardt, Recht, and
+  Vinyals}{Zhang et~al.}{2016}]{zhang2016understanding}
+Zhang, C., S.~Bengio, M.~Hardt, B.~Recht, and O.~Vinyals (2016).
+\newblock Understanding deep learning requires rethinking generalization.
+\newblock {\em arXiv preprint arXiv:1611.03530\/}.
+
+\end{thebibliography}

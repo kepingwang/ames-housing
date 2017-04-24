@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2016)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: main.aux
+The style file: chicago.bst
+Database file #1: hedonic.bib
+Warning--empty year in cmuLasso
+Warning--page numbers missing in de2011ames
+Warning--empty year in konstantin
+Warning--no number and no volume in shlens2014tutorial
+Warning--page numbers missing in shlens2014tutorial
+Warning--no number and no volume in zhang2016understanding
+Warning--page numbers missing in zhang2016understanding
+You've used 13 entries,
+            2861 wiz_defined-function locations,
+            695 strings with 7213 characters,
+and the built_in function-call counts, 9238 in all, are:
+= -- 720
+> -- 794
+< -- 0
++ -- 242
+- -- 270
+* -- 863
+:= -- 1755
+add.period$ -- 41
+call.type$ -- 13
+change.case$ -- 104
+chr.to.int$ -- 13
+cite$ -- 20
+duplicate$ -- 216
+empty$ -- 493
+format.name$ -- 294
+if$ -- 1659
+int.to.chr$ -- 1
+int.to.str$ -- 0
+missing$ -- 9
+newline$ -- 70
+num.names$ -- 130
+pop$ -- 83
+preamble$ -- 1
+purify$ -- 182
+quote$ -- 0
+skip$ -- 211
+stack$ -- 0
+substring$ -- 422
+swap$ -- 71
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 260
+warning$ -- 7
+while$ -- 121
+width$ -- 0
+write$ -- 173
+(There were 7 warnings)
